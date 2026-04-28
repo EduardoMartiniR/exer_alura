@@ -7,7 +7,7 @@ while True:
         continue
 
     if len(senha) < 8:
-        print("A senha deve ter pelo menos 8 caracteres.")
+        print("A senha deve ter pelo menos 8 caracteres, por favor")
         continue
 
     print("Cadastro realizado com sucesso !!!!!!!!!")
