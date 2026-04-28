@@ -10,5 +10,5 @@ while True:
         print("A senha deve ter pelo menos 8 caracteres.")
         continue
 
-    print("Cadastro realizado com sucesso!")
+    print("Cadastro realizado com sucesso !!!!!!!!!")
     break
